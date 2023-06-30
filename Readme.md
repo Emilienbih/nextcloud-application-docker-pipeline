@@ -1,5 +1,5 @@
 The apache image contains a webserver and exposes port 80. To start the container type:
-docker run -d --name   sociaapp   -p 8080:80 757750585556.dkr.ecr.ca-central-1.amazonaws.com/nextcloudapp:4
+docker run -d --name   sociaapp   -p 8081:80 391405332002.dkr.ecr.ca-central-1.amazonaws.com/testing1:4
 
 Testing push to ecr
 
